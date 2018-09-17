@@ -22,7 +22,7 @@ namespace Target
             Graphics g = this.CreateGraphics();
             Font drawFont = new Font("Helvetica Neue Bold", 100, FontStyle.Bold);
             Pen drawPen = new Pen(Color.White, 60);
-            SolidBrush drawBrush = new SolidBrush(Color.Red);
+            SolidBrush drawBrush = new SolidBrush(Color.Green);
 
             g.Clear(Color.White);
 
